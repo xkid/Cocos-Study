@@ -1,0 +1,12 @@
+<Solution>
+  <PropertyGroup Name="AnimationMove" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="025.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
